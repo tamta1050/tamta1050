@@ -29,16 +29,15 @@ Programming Languages:
 
 **Other Skills:**
 
-🔄 OOPs Concepts
 🔎 Test Report Creation
 🖥 Project Execution
 
 **🌐 My Projects**
 
-Twitter Automation Project
-Framework: Cypress
+OrangeHRM Manual & Automation Project
+Framework: Selenium
 Methodology: Page Object Model (POM)
-Role: Sole executor and reporter with guidance from an instructor.
+Role: Automation Testing.
 
 Reebok Manual Testing Project
 Performed extensive manual testing for the Reebok website, focusing on UI validation, functional testing, and user experience.
